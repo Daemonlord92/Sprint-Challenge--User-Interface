@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5 {
 p {
     line-height: 1.4;
 }
-/* header code */
+/* Header Code */
 
 header {
     display: flex;
@@ -122,6 +122,8 @@ div img .home-img-1 {
     padding-bottom: 20px;  
 }
 
+/* Boxes Code */
+
 .middle-content {
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
@@ -176,6 +178,8 @@ div img .home-img-1 {
     background: #1D90FF;
 }
 
+/* About Page Code */
+
 .flexxer {
     display: flex;
     flex-wrap: wrap;
@@ -205,6 +209,8 @@ div img .home-img-1 {
     margin-top: 15px;
 
 }   
+
+/* Bottom Page */
 
 .bottom-content {
     display: flex;
